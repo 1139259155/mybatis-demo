@@ -1,2 +1,2 @@
-# mybatis-demo
+# mybatisDemo
 my mybatis demo
